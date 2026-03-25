@@ -114,6 +114,7 @@ export function Footer() {
             </ul>
           </div>
         </div>
+        
 
         {/* Bottom Bar */}
         <div className="border-t border-background/10 mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
