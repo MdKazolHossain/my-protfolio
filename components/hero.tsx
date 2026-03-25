@@ -80,7 +80,7 @@ export function Hero() {
                       <Mic className="w-16 h-16 text-primary-foreground" />
                     </div>
                     <p className="text-xl font-semibold text-foreground">Podcast Expert</p>
-                    <p className="text-muted-foreground">5+ Years Experience</p>
+                    <p className="text-muted-foreground">8+ Years Experience</p>
                   </div>
                 </div>
               </div>

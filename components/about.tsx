@@ -4,7 +4,7 @@ import Image from "next/image"
 const stats = [
   { value: "50+", label: "Clients Served", icon: Target },
   { value: "1M+", label: "Total Reach", icon: Award },
-  { value: "5+", label: "Years Experience", icon: Clock },
+  { value: "8+", label: "Years Experience", icon: Clock },
   { value: "100%", label: "Client Satisfaction", icon: CheckCircle },
 ]
 
