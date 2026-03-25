@@ -46,7 +46,7 @@ export function About() {
               
               {/* Experience Badge */}
               <div className="absolute -top-4 -right-4 bg-primary text-primary-foreground rounded-full w-24 h-24 flex flex-col items-center justify-center shadow-lg">
-                <span className="text-2xl font-bold">5+</span>
+                <span className="text-2xl font-bold">8+</span>
                 <span className="text-xs">Years Exp.</span>
               </div>
             </div>

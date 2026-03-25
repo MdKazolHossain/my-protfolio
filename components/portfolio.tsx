@@ -1,6 +1,7 @@
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { TrendingUp, Users, Play } from "lucide-react"
+import CommonSlider from "./common-slider"
 
 const caseStudies = [
   {
@@ -37,6 +38,7 @@ const caseStudies = [
       engagement: "3 Sponsors",
     },
     color: "bg-orange-500/10",
+    imgs:["/3322.jpg","/3323.jpg"],
     accentColor: "text-orange-600",
   },
   {
@@ -100,6 +102,11 @@ export function Portfolio() {
               className="group overflow-hidden hover:shadow-lg transition-all duration-300"
             >
               {/* Header Visual */}
+
+{study?.imgs?.length?<CommonSlider images={study?.imgs}/>:null}
+
+              
+              {/* <img src={study.img} alt="" className="h-96 ob w-full"/> */}
               <div className={`${study.color} p-6 relative`}>
                 <Badge variant="secondary" className="mb-3">
                   {study.category}

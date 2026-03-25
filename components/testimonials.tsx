@@ -32,14 +32,14 @@ const testimonials = [
   },
   {
     name: "Lisa Thompson",
-    country: "Germany",
+    country: "United States",
     role: "Host, Mindful Living",
     feedback: "From SEO optimization to audience engagement, every aspect was handled professionally. My podcast is now getting sponsorship offers!",
     rating: 5,
   },
   {
     name: "David Park",
-    country: "South Korea",
+    country: "United States",
     role: "Tech Entrepreneur & Host",
     feedback: "Communication was excellent throughout. They understood my vision and helped me build a loyal community around my show.",
     rating: 5,
