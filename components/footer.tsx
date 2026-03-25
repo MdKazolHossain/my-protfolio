@@ -53,7 +53,7 @@ export function Footer() {
                 <Linkedin className="w-5 h-5" />
               </a> */}
               <a 
-                href="mailto:hello@podgrowth.com" 
+                href="mailto:kajolkk5@gmail.com" 
                 className="w-10 h-10 bg-background/10 rounded-lg flex items-center justify-center hover:bg-primary transition-colors"
                 aria-label="Email"
               >
@@ -101,8 +101,8 @@ export function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-3 text-background/70">
               <li>
-                <a href="mailto:hello@podgrowth.com" className="hover:text-primary transition-colors">
-                  hello@podgrowth.com
+                <a href="mailto:kajolkk5@gmail.com" className="hover:text-primary transition-colors">
+                  kajolkk5@gmail.com
                 </a>
               </li>
               <li>

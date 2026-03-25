@@ -26,8 +26,8 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "hello@podgrowth.com",
-      href: "mailto:hello@podgrowth.com",
+      value: "kajolkk5@gmail.com",
+      href: "mailto:kajolkk5@gmail.com",
     },
     {
       icon: Phone,
