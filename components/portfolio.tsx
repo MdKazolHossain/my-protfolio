@@ -5,7 +5,7 @@ import CommonSlider from "./common-slider"
 
 const caseStudies = [
   {
-    title: "Escaping the Drift with John Gaffor",
+    title: "Escaping the Drift with John Gafford",
     category: "Business",
     description: "Grew from 400k to 600k monthly downloads in 6 months through strategic SEO and social promotion.",
     results: {
@@ -57,27 +57,29 @@ const caseStudies = [
     accentColor: "text-red-600",
   },
   {
-    title: "Comedy Central Hour",
-    category: "Technology",
-    description: "Viral social media strategy generated 500K+ views and tripled download numbers in 3 months.",
+    title: "Kill Complacency Podcast",
+    category: "Education",
+    description: "Viral social media strategy generated 500K+ views and tripled download numbers in 6 months with top 60 rank on apple top chart.",
     results: {
       growth: "+200%",
-      downloads: "30K/mo",
+      downloads: "200K/mo",
       engagement: "500K views",
     },
     color: "bg-purple-500/10",
+    imgs:["/kill1.jpeg","/kill2.jpeg"],
     accentColor: "text-purple-600",
   },
   {
-    title: "Science Simplified",
+    title: "Never Stop Getting Better Podcast",
     category: "Education",
-    description: "Cross-promotion strategy resulted in 10K new subscribers and partnership with major science network.",
+    description: "Cross-promotion strategy resulted in 3K new listeners and 100k downloads with top 50 rank in apple top chart.",
     results: {
       growth: "+350%",
       downloads: "35K/mo",
       engagement: "Network Deal",
     },
     color: "bg-cyan-500/10",
+    imgs:["/JP1.jpeg","/JP2.jpeg","/Jp3.jpeg"],
     accentColor: "text-cyan-600",
   },
 ]
