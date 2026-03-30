@@ -110,7 +110,7 @@ export function Footer() {
                   +880 1993552414
                 </a>
               </li>
-              <li>Dhaka, Bangladesh</li>
+              <li>Kushtia, Khulna, Bangladesh</li>
             </ul>
           </div>
         </div>

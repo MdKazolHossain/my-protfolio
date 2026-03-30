@@ -38,7 +38,7 @@ export function Contact() {
     {
       icon: MapPin,
       label: "Location",
-      value: "Dhaka, Bangladesh",
+      value: "Kushtia, Khulna, Bangladesh",
       href: null,
     },
     {
