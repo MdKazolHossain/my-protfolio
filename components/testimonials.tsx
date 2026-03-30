@@ -3,10 +3,10 @@ import { Star, Quote } from "lucide-react"
 
 const testimonials = [
   {
-    name: "Sarah Mitchell",
+    name: "John Gafford",
     country: "United States",
-    role: "Host, The Wellness Hour",
-    feedback: "Absolutely incredible service! My podcast went from 500 downloads to 15,000 in just 4 months. The growth strategy was perfectly tailored to my niche.",
+    role: "Founder & Host, Escaping The Drift Podcast ",
+    feedback: "Absolutely incredible service! My podcast went from 5k downloads to 400k+ in just 1 months. Increase podcast rank & keep it alltime top #30 in business categories. The growth strategy was perfectly tailored to my niche.",
     rating: 5,
   },
   {

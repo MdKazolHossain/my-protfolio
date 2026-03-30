@@ -61,7 +61,7 @@ export function About() {
             
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
               I&apos;m a dedicated digital marketing specialist with a passion for helping 
-              podcasters reach their full potential. With over 5 years of experience in 
+              podcasters reach their full potential. With over 8 years of experience in 
               the podcast industry, I&apos;ve helped creators of all sizes grow their 
               audiences and build sustainable podcast businesses.
             </p>
